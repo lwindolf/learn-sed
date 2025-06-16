@@ -272,7 +272,7 @@ sed -n '0,/1/ p' my_text.txt
 1
 ```
 
-###Negation
+### Negation
 
 By appending '!' to address, we can address except that line.
 
